@@ -1,4 +1,4 @@
-# inkra_discord_game
+# inkra_discord_bot
 
 ## Project setup
 ```
